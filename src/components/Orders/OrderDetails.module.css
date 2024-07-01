@@ -1,0 +1,49 @@
+.orderDetailsContainer {
+padding: 10px;
+background-color: var(--cream);
+border: 3px solid var(--violet);
+border-radius: 8px;
+box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+margin-top: 120px;
+}
+
+.header {
+text-align: center;
+font-size: 35px;
+margin-bottom: 10px;
+color: var(--water);
+}
+
+.card {
+font-size: 18px;
+color: var(--space);
+}
+
+.returnButtonContainer {
+margin-top: 20px;
+text-align: center;
+}
+
+.returnButton {
+background-color: var(--water);
+color: var(--space);
+border: none;
+padding: 10px 10px;
+border-radius: 4px;
+cursor: pointer;
+font-size: 16px;
+background-color: var(--water); 
+color: var(--cream); 
+border: 1px solid var(--violet);
+}
+
+.returnButton:hover {
+background-color: var(--violet);
+color: var(--water);
+font-weight: bold;
+border: 1px solid var(--water);
+}
+
+
+
+
